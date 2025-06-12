@@ -1,0 +1,38 @@
+{
+  "title": "קטלוג אוהל מתנפח 1",
+  "pages": 6,
+  "theme": "מודרני",
+  "createdAt": "2025-06-12 23:38:12",
+  "pageInfo": [
+    {
+      "pageNumber": 1,
+      "imagePath": "images/page_1.webp",
+      "thumbPath": "thumbs/thumb_1.webp"
+    },
+    {
+      "pageNumber": 2,
+      "imagePath": "images/page_2.webp",
+      "thumbPath": "thumbs/thumb_2.webp"
+    },
+    {
+      "pageNumber": 3,
+      "imagePath": "images/page_3.webp",
+      "thumbPath": "thumbs/thumb_3.webp"
+    },
+    {
+      "pageNumber": 4,
+      "imagePath": "images/page_4.webp",
+      "thumbPath": "thumbs/thumb_4.webp"
+    },
+    {
+      "pageNumber": 5,
+      "imagePath": "images/page_5.webp",
+      "thumbPath": "thumbs/thumb_5.webp"
+    },
+    {
+      "pageNumber": 6,
+      "imagePath": "images/page_6.webp",
+      "thumbPath": "thumbs/thumb_6.webp"
+    }
+  ]
+}
